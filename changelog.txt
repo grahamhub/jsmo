@@ -1,0 +1,5 @@
+01-16-2020
+- added support for "any" and "she/he/they" pronouns
+- loosened requirements for letter cases
+- hopefully I think this will work let's see
+*
